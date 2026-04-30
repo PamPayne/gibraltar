@@ -4,7 +4,9 @@ Markdown versions of regulatory documents for Gibraltar, sourced from the DBNSA 
 
 ## Documents
 
-*Document index will be updated once files are processed.*
+| Document | Source File |
+|---|---|
+| [Ecogra Gibraltar Game Testing Requirements](Ecogra_-_Gibraltar_Game_Testing_Requirements.md) | Ecogra - Gibraltar Game Testing Requirements.docx |
 
 ## Source
 
