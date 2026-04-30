@@ -1,2 +1,11 @@
-> **Source:** [Ecogra - Gibraltar Game Testing Requirements.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Gibraltar/2. Analysis/Ecogra - Gibraltar Game Testing Requirements.docx)
+---
+country: Gibraltar
+document_name: Ecogra - Gibraltar Game Testing Requirements
+source_file: Ecogra - Gibraltar Game Testing Requirements.docx
+extracted_date: 2026-04-30
+jurisdiction: Gibraltar
+---
 
+# Ecogra - Gibraltar Game Testing Requirements
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
